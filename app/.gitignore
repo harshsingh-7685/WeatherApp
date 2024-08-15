@@ -1,0 +1,8 @@
+/build
+/gradle.properties
+/local.properties
+
+gradle
+/gradle
+/gradle/gradle.properties
+/gradle/local.properties
